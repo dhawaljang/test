@@ -1,5 +1,0 @@
-{{#user}}
-Name: Dhawal Jangpangi
-Skills: HTML, CSS, JS, PHP, Node.Js, C++, Python, Bootstrap
-Email: dhawaljangpangi23@gmail.com
-{{/user}}
